@@ -2,6 +2,30 @@
 
 A production-ready single-page application (SPA) for help-desk teams to manage support tickets with AI-powered classification. Built with Laravel 11 (PHP 8.2) backend and Vue 3 (Options API) frontend.
 
+## 📸 Application Screenshots
+
+### Dashboard Analytics (Dark Theme)
+![Dashboard Dark Theme](ScreenShot/download.png)
+*Interactive dashboard with Chart.js visualizations showing ticket distribution, real-time metrics, and recent activity feed*
+
+### Support Tickets Management (Dark Theme)
+![Tickets List Dark](ScreenShot/download-1.png)
+*Comprehensive ticket management with AI classifications, confidence scores, inline editing, and advanced filtering*
+
+### Support Tickets Management (Light Theme)
+![Tickets List Light](ScreenShot/download-2.png)
+*Same powerful features in clean light theme - demonstrating responsive theme system*
+
+### Dashboard Analytics (Light Theme)
+![Dashboard Light Theme](ScreenShot/download-3.png)
+*Analytics dashboard with theme-aware Chart.js charts and professional business styling*
+
+### Ticket Detail View
+![Ticket Detail](ScreenShot/download-4.png)
+*Individual ticket management with status editing, internal notes, and AI classification triggers*
+
+> **🎯 All screenshots show the application in full working order with real data, AI classifications, and interactive features**
+
 ## Features
 
 ### Core Functionality
